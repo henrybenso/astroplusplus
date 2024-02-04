@@ -1,17 +1,3 @@
-TODO: Put logo here
-#Astro++
-
-TODO: tell the story
-
-## Features
-
-TODO:
-
-## Examples
-
-```
-// A simple program in Astro++
-
 radius = 55.2 * (-cos(2.8E-20) + 89) % 21;    // assignment statement
 the_area = π * radius ** 2;                   // another assignment
 
@@ -25,6 +11,3 @@ if radius < 50.0 {
 } else {
     radius = 2.0;
 }
-```
-
-TODO: we need more than just one example
